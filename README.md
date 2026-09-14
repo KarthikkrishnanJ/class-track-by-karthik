@@ -1,4 +1,4 @@
-![Uploading ClassTrack New Logo Bg Removed.png…]()
+<img width="1254" height="1254" alt="ClassTrack New Logo Bg Removed" src="https://github.com/user-attachments/assets/d31b96f2-823b-4288-9ae0-e9b5bbecc91c" />
 # Class Tracker App
 A modern student productivity and class management website.
 
