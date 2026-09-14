@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The latest version of Class Tracker is actively maintained and receives security updates.
+The latest version of Class Track is actively maintained and receives security updates.
 
 | Version        | Supported |
 | -------------- | --------- |
@@ -21,4 +21,4 @@ Instead, contact the maintainer (@ karthikkrishnanjayakrishnan@gmail.com) direct
 
 I will review reports as soon as possible and work on a fix if the issue is confirmed.
 
-Thank you for helping keep Class Tracker secure.
+Thank you for helping keep Class Track secure.
