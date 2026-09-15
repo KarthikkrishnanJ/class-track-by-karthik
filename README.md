@@ -2,6 +2,9 @@
 # Class Tracker App
 A modern student productivity and class management website.
 
+# Updates
+Recently a new desktop app has been created for updates please once in a while check for updates as auto updating system is still under testing, as for browser users as and when the next update is ready it will auto update on you side with the same link
+
 # Website :
 https://class-track-by-karthik.vercel.app
 
