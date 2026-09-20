@@ -5,6 +5,10 @@ A modern student productivity and class management website.
 # Updates
 Recently a new desktop app has been created for updates please once in a while check for updates as auto updating system is still under testing, as for browser users as and when the next update is ready it will auto update on you side with the same link
 
+# Usage :
+- If you are using the website you may click on the below link and start using Class Trak
+- If you're using a windows device, you can go to releases and on the latest update -> in assets you can find a few files -> download the exe file
+
 # Website :
 https://class-track-by-karthik.vercel.app
 
