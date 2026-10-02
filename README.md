@@ -3,7 +3,7 @@
 A modern student productivity and class management website.
 
 # Warning(Temporary) :
-Class Track is facing a few technical issues involving password recovery and app issues, kindly use the v3.3.1 until further notice. I apologide for any inconvenience caused by this issue and Class Track will be resumed soon. I reccomend downloading a backup as a precautionary.
+Class Track has been tested all features are available right now. If you face any bug kindly inform me @ karthikkrishnanjayakrishnan@gmail.com 
 
 # Updates
 Recently a new desktop app has been created for updates please once in a while check for updates as auto updating system is still under testing, as for browser users as and when the next update is ready it will auto update on you side with the same link
