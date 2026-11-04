@@ -3,7 +3,7 @@
 A modern student productivity and class management website.
 
 # Warning(Temporary) :
-Class Track is facing a few technical issues with the app system, kindly refrain from updating Class Track App to version 3.3.2, but the Web Version is still available and working.
+Class Track's app has returned after extensive revamps in a pre-release / beta mode. If you ever find a bug, error or just have a concern contact me at karthikkrishnanjayakrishnan@gmail.com
 
 # Updates
 Recently a new desktop app has been created for updates please once in a while check for updates as auto updating system is still under testing, as for browser users as and when the next update is ready it will auto update on you side with the same link
